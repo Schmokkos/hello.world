@@ -8,9 +8,9 @@ public class SecondJavaProgram {
          * using keyboard
          */
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter any number: ");
 
         // This method reads the number provided using keyboard
+        System.out.print("Enter any number: ");
         int num = scan.nextInt();
 
         // Closing Scanner after the use
