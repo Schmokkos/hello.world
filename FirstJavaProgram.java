@@ -12,6 +12,7 @@ public class FirstJavaProgram {
 
     public static void main(String args[]){
         FirstJavaProgram var1 = new FirstJavaProgram();
+        //Mulig oppgave: Endre resten av koden slik at du kan fjerne de to linjene under.
         FirstJavaProgram var2 = new FirstJavaProgram();
         FirstJavaProgram var3 = new FirstJavaProgram();
 

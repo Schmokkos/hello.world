@@ -16,11 +16,7 @@ public class SecondJavaProgram {
         else {
             result = num3;
         }
-
-        System.out.println("------------------------");
         System.out.println("Highest number is: "+result);
-        System.out.println("------------------------");
-        System.out.println("------------------------");
     }
 
     public static void numberOfTimes(){
@@ -66,8 +62,9 @@ public class SecondJavaProgram {
 
         // Closing Scanner after the use
         scan.close();
-
+        System.out.println("------------------------");
         SecondJavaProgram.highestNumber();
+        System.out.println("------------------------");
         SecondJavaProgram.numberOfTimes();
     }
 }
